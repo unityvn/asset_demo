@@ -7,3 +7,4 @@
 |asset3|prototype điều kiển vị trí player và bắn đạn|[download](https://github.com/unityvn/asset_demo/releases/download/1.0.0/asset3.unitypackage)|
 |asset4|prototype điều khiển vị trí player để nhặt đồ|[download](https://github.com/unityvn/asset_demo/releases/download/1.0.0/asset4.unitypackage)|
 |asset5|prototype điều khiển player nhảy qua chướng ngại vật <br> có sử dụng sound và effects|[download](https://github.com/unityvn/asset_demo/releases/download/1.0.0/asset5.unitypackage)|
+|asset6|prototype điều kiển bóng bay thu thập gold và né tránh bomb|[download](https://github.com/unityvn/asset_demo/releases/download/1.0.0/asset6.unitypackage)|
