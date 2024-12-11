@@ -1,6 +1,6 @@
 # asset_demo
 
-|Asset name|Description||
+|Name|Description||
 |:----|:---------------|:------|
 |asset1|prototype điều kiển oto|[download](https://github.com/unityvn/asset_demo/releases/download/1.0.0/asset1.unitypackage)|
 |asset2|prototype điều khiển máy bay|[download](https://github.com/unityvn/asset_demo/releases/download/1.0.0/asset2.unitypackage)|
